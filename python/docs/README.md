@@ -1,0 +1,3 @@
+# python/docs
+
+Lecture notes.
